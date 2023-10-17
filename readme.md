@@ -1,7 +1,3 @@
-Certainly! Based on the updated information, here's the revised `README.md` file for your project:
-
----
-
 # PPG DATA ACQUSITION
 - Ppg data acqusition tool
 ## Prerequisites
