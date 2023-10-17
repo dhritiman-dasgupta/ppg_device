@@ -9,13 +9,13 @@
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/dhritiman-dasgupta/ppg_device
    ```
 
 2. **Navigate to the project directory:**
 
    ```
-   cd your-project
+   ppg_device
    ```
 
 3. **Run the Data Acquisition Tool GUI:**
