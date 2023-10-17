@@ -2,10 +2,8 @@ Certainly! Based on the updated information, here's the revised `README.md` file
 
 ---
 
-# Project Name
-
-Description of your project goes here.
-
+# PPG DATA ACQUSITION
+- Ppg data acqusition tool
 ## Prerequisites
 
 - Python 3.9 or higher must be installed on your system. You can download Python from the official [Python website](https://www.python.org/downloads/).
